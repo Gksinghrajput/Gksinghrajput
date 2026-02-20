@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" width="150" style="border-radius:50%;" />
+  <img src="profile.png" width="150"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Gk Singh Rajput</h1>
