@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="profile.png" width="150"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Gk Singh Rajput</h1>
 <h3 align="center">💻 BCA Student | Aspiring Full Stack Developer 🚀</h3>
